@@ -83,6 +83,7 @@ public class Homework {
         }
         return false;
     }
+    // не понял как сделать по условию, чтобы работал код, остальные задачи, которые идут после не успел разобрать
 //
 //    private static int[] createArray(int len, int initialValue) {
 //        // должен вернуть массив длины len, каждое значение которого равно initialValue
