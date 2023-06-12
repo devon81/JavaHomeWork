@@ -17,7 +17,7 @@ public class Homework {
 
         //printString("abcd", 5); // abcdabcdabcdabcdabcd
 
-        isLeapYear(0);
+        System.out.println(isLeapYear(0));
 
 //        int[] arr = createArray(5, 10);
 //        System.out.println(Arrays.toString(arr)); // [10, 10, 10, 10, 10]
